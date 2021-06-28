@@ -1,0 +1,12 @@
+## Problems Name
+[01. Absolute Value](01.Absolute_Mean.md)  
+[02. Convert Celsius To Fahrenheit](02.Convert_Celsius_To_Fahrenheit.md)  
+[03. Quadratic Equation Roots](03.Quadratic_Equation_Roots.md)  
+[04. Factorial Of Number](04.Factorial_Of_Number.md)  
+[05. Digits In Factorial](05.Digits_In_Factorial.md)  
+[06. GP Term](06.GP_Term.md)  
+[07. Primality Test](07.Primality_Test.md)  
+[08. Exactly 3 Divisors](08.Exactly_3_Divisors.md)  
+[09. Addition Under Modulo](09.Addition_Under_Modulo.md)  
+[10. Multiplication Under Modulo](10.Multiplication_Under_Modulo.md)  
+[11. Modular Multiplicative Inverse](11.Modular_Multiplicative_Inverse.md)
