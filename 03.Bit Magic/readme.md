@@ -1,0 +1,13 @@
+## Problem Name
+[01. Find first set bit](01.Find_first_set_bit.md)  
+[02. Rightmost different bit](02.Rightmost_different_bit.md)  
+[03. Check whether K-th bit is set or not](03.Check_whether_K-th_bit_is_set_or_not.md)  
+[04. Count total set bits]()  
+[05. Bit Difference](05.Bit_Difference.md)  
+[06. Number is sparse or not]()  
+[07. Longest Consecutive 1's]()  
+[08. Binary To Gray Code equivalent]()  
+[09. Gray to Binary equivalent]()  
+[10. Power of 2]()  
+[11. Swap all odd and even bits]()  
+[12. Maximum AND Value]()  
